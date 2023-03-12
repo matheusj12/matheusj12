@@ -1,6 +1,5 @@
 ## Olá! Meu nome é Matheus Júlio e sou um entusiasta de tecnologia apaixonado por criar soluções inovadoras para desafios reais. Atualmente, sou um desenvolvedor de software tenho algumas habilidades como desenvolvimento web, atualmente a linguagem de programação que trabalho e ruby on rails, mais não deixando de utilizar outras linguagens como html, css, java desktop, java script, flutter, ionic!
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?matheusj12=anuraghazra&count_private=true)
 
 <div style="display: inline_block"><br>
